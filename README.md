@@ -12,7 +12,7 @@ Adjust your screen brightness with just hand gestures! This project utilizes Med
 
 ✅ Simple and intuitive gesture-based control
 
-Tech Stack
+**Tech Stack**
 
 Python 🐍
 
